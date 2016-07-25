@@ -1,0 +1,15 @@
+[color]
+	ui = true
+[push]
+	default = current
+[core]
+	editor = vim
+[user]
+	name = Alex Kras
+	email = akras14@gmail.com
+[diff]
+	tool = meld
+[merge]
+	tool = meld
+[credential]
+	helper = cache --timeout=2628000
